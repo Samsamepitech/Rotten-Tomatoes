@@ -45,6 +45,11 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ![image](https://user-images.githubusercontent.com/98088041/229534240-88e4cb95-8aca-4228-8712-6024ca9fb982.png)
 
+# Filter by genre 
+
+![image](https://user-images.githubusercontent.com/98088041/229535626-33438624-2fbc-42b8-95e7-8f191296c10f.png)
+
+
 # Movie Crud 
 
 ![image](https://user-images.githubusercontent.com/98088041/229534446-63cf1a71-ea72-4464-8e43-0b580b19712a.png)
