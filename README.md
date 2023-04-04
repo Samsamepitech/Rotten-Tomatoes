@@ -36,6 +36,11 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
+# Swagger documentation API
+
+![image](https://user-images.githubusercontent.com/98088041/229757278-a5887c64-80f2-4002-8621-5495e0ad64c6.png)
+
+
 
 # Popular movies
 
