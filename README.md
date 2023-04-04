@@ -38,7 +38,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 # Swagger documentation API
 
-![image](https://user-images.githubusercontent.com/98088041/229757278-a5887c64-80f2-4002-8621-5495e0ad64c6.png)
+![image](https://user-images.githubusercontent.com/98088041/229757712-03794ff3-cc58-46bf-90b0-276591852ec5.png)
 
 
 
